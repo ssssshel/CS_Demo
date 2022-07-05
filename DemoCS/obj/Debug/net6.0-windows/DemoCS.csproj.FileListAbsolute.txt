@@ -1,0 +1,17 @@
+D:\Documentos\Portafolio\DemoCS\DemoCS\bin\Debug\net6.0-windows\DemoCS.exe
+D:\Documentos\Portafolio\DemoCS\DemoCS\bin\Debug\net6.0-windows\DemoCS.deps.json
+D:\Documentos\Portafolio\DemoCS\DemoCS\bin\Debug\net6.0-windows\DemoCS.runtimeconfig.json
+D:\Documentos\Portafolio\DemoCS\DemoCS\bin\Debug\net6.0-windows\DemoCS.dll
+D:\Documentos\Portafolio\DemoCS\DemoCS\bin\Debug\net6.0-windows\DemoCS.pdb
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.csproj.AssemblyReference.cache
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.Form1.resources
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.csproj.GenerateResource.cache
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.AssemblyInfoInputs.cache
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.AssemblyInfo.cs
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.csproj.CoreCompileInputs.cache
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.dll
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\refint\DemoCS.dll
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.pdb
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\DemoCS.genruntimeconfig.cache
+D:\Documentos\Portafolio\DemoCS\DemoCS\obj\Debug\net6.0-windows\ref\DemoCS.dll
